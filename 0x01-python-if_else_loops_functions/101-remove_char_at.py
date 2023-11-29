@@ -2,7 +2,7 @@
 def remove_char_at(str, n):
     copy = ""
     i = 0
-    while(i < len(str)):
+    while (i < len(str)):
         if i == n:
             i += 1
         else:
