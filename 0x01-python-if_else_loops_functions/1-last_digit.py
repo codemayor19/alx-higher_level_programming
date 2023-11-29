@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 import random
 number = random.randint(-10000, 10000)
+number = -98
 if number < 0:
     numb = number * -1
 num = number % 10
